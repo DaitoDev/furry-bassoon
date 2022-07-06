@@ -1,5 +1,4 @@
 body {
-    background-color: #495057;
     padding: 1rem;
 }
 
@@ -35,4 +34,8 @@ img {
 .footer a,
 a {
     margin: 2rem auto;
+}
+
+.forms {
+    max-width: 30%;
 }
